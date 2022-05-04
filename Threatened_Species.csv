@@ -1,0 +1,195 @@
+﻿Country,Plants,Fish,Birds,Mammals
+Afghanistan,5,4,16,11
+Albania,4,44,8,3
+Algeria,22,41,15,14
+Andorra,0,0,3,2
+Angola,34,53,32,18
+Antigua and Barbuda,4,31,3,2
+Argentina,70,42,52,38
+Armenia,74,3,14,9
+Australia,108,125,52,63
+Austria,17,11,13,3
+Azerbaijan,44,14,17,8
+Bahamas,7,43,10,5
+Bahrain,0,14,7,3
+Bangladesh,23,29,36,37
+Barbados,3,29,4,3
+Belarus,1,2,9,4
+Belgium,0,13,8,2
+Belize,46,45,6,10
+Benin,20,40,12,13
+Bhutan,43,3,21,25
+Bolivia,106,8,55,21
+Bosnia and Herzegovina,3,36,7,4
+Botswana,3,2,16,11
+Brazil,558,93,175,80
+Brunei,127,14,31,33
+Bulgaria,9,22,17,8
+Burkina Faso,4,4,12,9
+Burundi,89,17,15,14
+Cambodia,37,48,31,39
+Cameroon,555,122,29,46
+Canada,18,44,24,18
+Cape Verde,51,35,7,4
+Central African Republic,26,3,16,16
+Chad,6,1,16,16
+Chile,73,27,35,19
+China,593,136,96,73
+Colombia,268,99,126,58
+Comoros,9,11,14,5
+Costa Rica,143,64,27,11
+Cote d'Ivoire,118,59,25,31
+Croatia,8,64,14,9
+Cuba,179,44,19,10
+Cyprus,22,24,7,6
+Czech Republic,26,2,9,3
+Dem. Rep. of Congo,148,94,42,32
+Denmark,1,18,9,2
+Djibouti,3,23,12,11
+Dominica,12,31,7,3
+Dominican Republic,47,29,17,7
+Ecuador,1860,61,106,47
+Egypt,8,58,14,18
+El Salvador,33,17,7,6
+Equatorial Guinea,98,44,6,23
+Eritrea,6,29,21,15
+Estonia,0,5,9,1
+Eswatini,13,5,13,9
+Ethiopia,64,14,35,34
+Fed. Sts. Micronesia,5,25,12,5
+Fiji,78,20,14,7
+Finland,2,6,11,2
+France,47,53,16,9
+Gabon,173,72,7,18
+Gambia,6,35,14,10
+Georgia,63,11,14,9
+Germany,36,24,11,5
+Ghana,119,58,23,21
+Greece,72,80,17,10
+Grenada,3,29,2,3
+Guatemala,120,41,17,15
+Guinea,70,76,20,30
+Guinea-Bissau,6,41,12,14
+Guyana,30,33,16,11
+Haiti,93,30,17,4
+Honduras,134,45,14,8
+Hungary,43,9,13,3
+Iceland,0,16,7,6
+India,396,227,93,93
+Indonesia,458,166,160,191
+Iran,7,47,28,18
+Iraq,2,19,17,13
+Ireland,3,28,9,5
+Israel,23,50,18,15
+Italy,102,52,17,8
+Jamaica,215,30,11,7
+Japan,50,77,49,29
+Jordan,8,20,14,13
+Kazakhstan,14,14,27,16
+Kenya,243,74,44,30
+Kiribati,0,14,6,2
+Kuwait,0,18,11,7
+Kyrgyz Republic,13,3,15,5
+Lao,56,55,29,45
+Latvia,0,6,11,1
+Lebanon,24,28,11,10
+Lesotho,4,1,8,4
+Liberia,53,64,14,24
+Libya,7,32,8,10
+Liechtenstein,0,0,2,0
+Lithuania,1,6,10,2
+Luxembourg,0,1,3,0
+Madagascar,1110,111,37,121
+Malawi,34,36,19,10
+Malaysia,727,87,63,71
+Maldives,0,24,0,2
+Mali,12,2,17,14
+Malta,4,22,5,2
+Marshall Islands,0,18,4,1
+Mauritania,0,45,19,18
+Mauritius,91,21,12,7
+Mexico,484,181,71,96
+Moldova,2,8,11,4
+Monaco,1,15,0,3
+Mongolia,0,2,24,11
+Montenegro,3,32,13,6
+Morocco,52,54,18,18
+Mozambique,145,72,30,17
+Myanmar,61,53,56,49
+Namibia,27,33,32,15
+Nauru,0,11,2,2
+Nepal,18,7,38,29
+Netherlands,1,15,10,3
+New Zealand,21,38,69,9
+Nicaragua,50,40,17,7
+Niger,4,4,13,13
+Nigeria,205,74,21,31
+North Korea,17,20,29,10
+North Macedonia,4,13,13,6
+Norway,10,23,11,8
+Oman,6,36,13,10
+Pakistan,12,46,33,25
+Palau,5,21,6,4
+Palestine,6,2,15,4
+Panama,212,57,25,17
+Papua New Guinea,179,61,39,41
+Paraguay,20,0,27,10
+Peru,328,52,119,53
+Philippines,254,91,93,38
+Poland,11,8,11,4
+Portugal,101,67,15,13
+Qatar,0,17,9,4
+Rep. of Congo,46,57,7,15
+Romania,7,22,17,9
+Russia,56,39,57,34
+Rwanda,41,7,20,24
+Samoa,2,16,6,2
+San Marino,0,0,0,0
+Sao Tome and Principe,49,25,12,4
+Saudi Arabia,4,41,18,11
+Senegal,14,58,19,19
+Serbia,6,15,13,6
+Seychelles,61,24,13,6
+Sierra Leone,72,57,16,22
+Singapore,62,29,22,14
+Slovak Republic,25,5,12,4
+Slovenia,7,33,10,6
+Solomon Islands,16,24,24,19
+Somalia,49,31,21,16
+South Africa,153,121,54,30
+South Korea,31,28,33,12
+South Sudan,17,0,21,14
+Spain,247,83,19,17
+Sri Lanka,297,57,16,30
+St. Kitts and Nevis,2,30,3,2
+St. Lucia,7,30,7,2
+St. Vincent and the Grenadines,6,29,4,2
+Sudan,17,32,26,16
+Suriname,27,32,9,9
+Sweden,5,15,11,1
+Switzerland,4,9,9,3
+Syria,26,51,17,14
+Tajikistan,12,5,15,7
+Tanzania,644,179,49,41
+Thailand,159,106,62,59
+Timor-Leste,2,13,6,5
+Togo,13,38,13,13
+Tonga,5,16,5,2
+Trinidad and Tobago,50,37,5,2
+Tunisia,9,39,11,14
+Turkey,113,131,20,19
+Turkmenistan,4,13,19,10
+Tuvalu,0,13,1,2
+Uganda,64,60,30,31
+Ukraine,22,24,17,11
+United Arab Emirates,0,20,13,8
+United Kingdom,42,48,11,5
+United States,510,251,91,40
+Uruguay,22,45,22,10
+Uzbekistan,16,7,19,10
+Vanuatu,10,18,8,8
+Venezuela,86,45,52,35
+Vietnam,231,83,52,56
+Yemen,163,40,16,11
+Zambia,23,20,20,13
+Zimbabwe,52,3,19,10
