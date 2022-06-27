@@ -1,10 +1,8 @@
 # A terminal-based application to lookup, proccess, and plot data based on given user input and provided csv files. 
 #Use popation density to create a colour coded map based on population density
-from matplotlib.text import OffsetFrom
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from pandas.core.frame import DataFrame
 
 class Country:
     """A class used to create a Country object.
